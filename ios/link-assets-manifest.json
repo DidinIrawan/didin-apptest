@@ -1,0 +1,113 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "Assets/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "Assets/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "Assets/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "Assets/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "Assets/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "Assets/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "Assets/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "Assets/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "Assets/Inter-VariableFont_slnt,wght.ttf",
+      "sha1": "44b415f3b0ac1da7f3044ba6bcc542a649d4a447"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Bold.ttf",
+      "sha1": "65d200b5d71c1eb13a4adc781bf1736f9023e7d1"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-BoldItalic.ttf",
+      "sha1": "37ac874642792b98fa5cc4265eaecf524958cbf5"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-ExtraBold.ttf",
+      "sha1": "ae3e020c0aa18846f2e00061fadb354e4d4ede1d"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-ExtraBoldItalic.ttf",
+      "sha1": "e7bae9b8bc93199c4e000f1da5869f36af2856a8"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-ExtraLight.ttf",
+      "sha1": "dfc917207ff3f235abe957fc54d02c0c651bb1b3"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-ExtraLightItalic.ttf",
+      "sha1": "5f13537bcfab5dfa67781c9c8542b2d0e2127d0f"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Italic-VariableFont_wght.ttf",
+      "sha1": "0cce43f4ca4dcaec8e4afad927d6467de5061900"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Italic.ttf",
+      "sha1": "dddce7b58057b032a4057e5406356c3551e2bb4a"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Light.ttf",
+      "sha1": "bac18663bde6c31b5ebed0350c72a52eaa21364e"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-LightItalic.ttf",
+      "sha1": "9e895c9cb6d2b1fedda4f1d54609e53b5d304824"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Medium.ttf",
+      "sha1": "d9f2b21bd07ae873b2696ae985cdff528fa1c6ec"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-MediumItalic.ttf",
+      "sha1": "d19834eaebd28ce8c76b70db67fb73496500387f"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-Regular.ttf",
+      "sha1": "535033c2b4eb50644357745f7ebeb5e1381428d9"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-SemiBold.ttf",
+      "sha1": "0de275ba9332fd64d48a9b481866d4f8c37c3d2a"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-SemiBoldItalic.ttf",
+      "sha1": "6d6617981be2c865547d48510ffdc2bf4785a85c"
+    },
+    {
+      "path": "Assets/PlusJakartaSans-VariableFont_wght.ttf",
+      "sha1": "14d6cd1222e8888ac59270cd3cea09acaaf08ea7"
+    },
+    {
+      "path": "Assets/color/Index.js",
+      "sha1": "679cc95340449605f476b8dcfaa69a6de92f03a3"
+    }
+  ]
+}
